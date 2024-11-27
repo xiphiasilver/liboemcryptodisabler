@@ -1,6 +1,6 @@
 # **liboemcrypto.so disabler**
 
-** _liboemcrypto.so is missing under Android 13, Pixel 6_ **
+**_liboemcrypto.so is missing under Android 13, Pixel 6_**
 
 ## Description
 
