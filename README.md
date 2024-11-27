@@ -1,5 +1,7 @@
 # **liboemcrypto.so disabler**
 
+## liboemcrypto.so is missing under Android 13, Pixel 6
+
 ## Description
 
 Apps that use `liboemcrypto.so` to play content protected by DRM, such as Netflix and My5, will fail when playback is attempted on most rooted Samsung devices. This Magisk module masks `liboemcrypto.so` with a zero byte replacement.
